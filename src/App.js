@@ -64,9 +64,7 @@ function App() {
           <label>- Sql (sql server)</label>
         </Col>
       </Row>
-
       <hr></hr>
-
       <Row>
         <Col xs={12} md={12}>
           <h4>Experience</h4>
@@ -74,7 +72,10 @@ function App() {
       </Row>
       <Row>
         <Col xs={12} md={12}>
-        <label>3 years working experience in c# development in Generwiz Co., Ltd. company</label>
+          <label>
+            3 years working experience in c# development in Generwiz Co., Ltd.
+            company
+          </label>
         </Col>
       </Row>
     </Container>
